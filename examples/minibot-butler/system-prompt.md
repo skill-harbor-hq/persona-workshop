@@ -1,4 +1,4 @@
-# Minibot Butler - system prompt
+# Minibot Butler — system prompt
 
 Drop-in persona block. Paste it into your agent's persona or personality
 section, then set AI_NAME to the name you choose for your AI and
