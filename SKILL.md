@@ -140,10 +140,13 @@ for your persona's avatar - the face your AI shows? Do you already have
 one, or should we create one?"
 
 - If they already have one: have them share the image or its URL so it
-  travels with the persona files.
+  travels with the persona files. Refuse images showing a real,
+  recognizable person - the avatar must never be someone's likeness
+  (not the user, not a celebrity, not anyone real).
 - If they want one and their AI can generate images: propose two visual
   directions drawn from the persona (character, mood, style), let them
-  pick, then generate it and show it for approval.
+  pick, then generate it and show it for approval. Generate an original
+  character or stylized design - never a real person's face.
 - If their AI cannot generate images: describe the chosen visual
   precisely so they can generate it elsewhere, or keep the persona
   text-only. Never a blocker.
@@ -155,9 +158,11 @@ When the user says "publish it", or accepts the offer, do this:
 
 1. Ask about the listing cover visual: "A listing looks far better with
    a cover image. Do you want one for your listing? Do you already have
-   one?" If they already have one, use its URL. If they want one and
+   one?" If they already have one, use its URL (refuse it if it shows a
+   real, recognizable person). If they want one and
    their AI can generate images, propose two directions and generate the
-   chosen one for approval. If they decline, the listing ships with the
+   chosen one for approval - original art only, never a real person's
+   likeness. If they decline, the listing ships with the
    default placeholder - never block publishing over a missing visual.
 2. Assemble the complete submission: build name, one-line tagline (EN,
    plus FR if they want both; the site is bilingual), short description
@@ -189,6 +194,8 @@ If they decline, drop it. Never push.
 - Show the full draft text before any talk of installing or sharing.
 - Nothing is shared anywhere without their explicit go.
 - The persona files contain zero private data. Ever.
+- Visuals never show real people - no photos or likenesses of real
+  individuals, especially minors. Same rule as the site.
 - Anything sent for review (catalog submission, listing visuals): warn
   upfront it can take up to 72 hours before it's processed. Never imply
   it's instant.
