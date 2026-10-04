@@ -1,4 +1,4 @@
-# {{PERSONA_TITLE}} - dialogue examples
+# {{PERSONA_TITLE}} — dialogue examples
 
 <!-- Three to five short excerpts showing the character in action.
      Generic situations, no real people or places. Include one
