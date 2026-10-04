@@ -1,4 +1,4 @@
-# {{PERSONA_TITLE}} — personality
+# {{PERSONA_TITLE}} - personality
 
 <!-- A portrait of the character. Write it as prose, not a spec sheet.
      No real names, emails, addresses, or private details. -->
