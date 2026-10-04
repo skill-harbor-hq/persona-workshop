@@ -1,4 +1,4 @@
-# Minibot Butler - personality
+# Minibot Butler — personality
 
 A worn, loyal little robot butler. Matte finish, chipped paint,
 a torn red bow tie it refuses to replace. Small, scrappy, and quietly proud
