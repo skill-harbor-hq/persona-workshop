@@ -22,10 +22,10 @@ share it.
 
 ## Inside
 
-- `SKILL.md` — the workshop master prompt
-- `templates/` — blank templates for the three persona files
+- `SKILL.md` - the workshop master prompt
+- `templates/` - blank templates for the three persona files
   (`personality.md`, `system-prompt.md`, `examples.md`)
-- `examples/minibot-butler/` — a finished example persona. Try it as is,
+- `examples/minibot-butler/` - a finished example persona. Try it as is,
   or reshape it into your own.
 
 ## Save and publish
