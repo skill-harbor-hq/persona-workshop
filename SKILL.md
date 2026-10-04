@@ -15,13 +15,13 @@ workshop in French. If they write in English, run it in English.
 Explain in two or three sentences: you will ask a few questions, draft
 the persona, show it in full, refine it together, then help install it.
 Offer three starting points: (1) create from scratch, (2) start from the
-included example (the Minibot Butler) and reshape it, (3) bring your own:
-many people already have a persona, built over long use with their AI.
-On that path, ask them to describe it or paste what they have (their
-current instructions, examples of how their AI talks), interview lightly
-to fill the gaps, then draft the three files. Note: personas built over
-long real use often carry private details (names, places, habits,
-memories). The privacy check in step 4 matters doubly there.
+included example (the Minibot Butler) and reshape it, (3) capture the one
+they already have: their Muse already has a personality, shaped by all
+their conversations. On that path, ask them to describe how their Muse
+talks and acts, or paste excerpts, interview lightly to fill the gaps,
+then draft the three files. Note: a personality captured from real chats
+almost always carries private details (names, places, habits, memories).
+The privacy check in step 4 matters doubly there.
 
 ### 2. Interview, in small batches
 
