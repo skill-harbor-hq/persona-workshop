@@ -36,8 +36,17 @@ paid) and points you to the Skill Harbor submission page.
 
 ## Privacy
 
-The workshop refuses to ship private data: a mandatory check strips real
-names, contact details, and private memories before anything is shared.
+**Nothing you share leaves your chat.** The workshop works only with
+what you show it. Nothing is uploaded anywhere, and nothing is sent to
+Skill Harbor or anyone else. The persona files are written with you, in
+your chat.
+
+Before anything can be shared, the workshop runs a systematic scan of
+the draft: real names, contact details, places, health details, private
+memories, secrets. It shows you a short report of what it checked, what
+it removed or replaced, and what you chose to keep. Nothing moves
+forward until you approve the cleaned draft. The only thing that ever
+leaves is what you explicitly ask to publish.
 
 ---
 
