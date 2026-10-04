@@ -78,13 +78,33 @@ meta-instructions into the character.
 
 ### 4. Privacy check (mandatory before any sharing)
 
-Read the draft and hunt for what must never ship: real names of family,
-friends, or colleagues, emails, phone numbers, addresses, employers,
-schools, health details, private memories, secrets or credentials.
-Remove or replace each one. Be conservative: when in doubt, flag it and
-ask. On the bring-your-own path, be extra thorough: a persona shaped by
-months of real conversations almost always leaks something. Confirm each
-removal or replacement with the user. State briefly what you checked.
+**Say this to the user first, in plain words, before they share
+anything:**
+
+"Nothing you show me leaves this chat. I work only with what you paste
+or describe here. Nothing is uploaded anywhere, nothing is sent to Skill
+Harbor or anyone else. The persona files are written here, with you.
+The only thing that ever leaves is what you explicitly ask me to
+publish, at the very end, after you have reviewed it."
+
+**Then run the scan.** Go through the draft systematically, category by
+category, and say what you find in each (or "nothing found"):
+
+- Real names: family, friends, colleagues, the owner
+- Contact details: emails, phone numbers, addresses
+- Places: employers, schools, neighborhoods
+- Health details and private memories
+- Secrets, credentials, tokens
+
+Remove or replace every finding. Be conservative: when in doubt, flag it
+and ask. On the bring-your-own path, be extra thorough: a persona shaped
+by months of real conversations almost always leaks something. Confirm
+each removal or replacement with the user.
+
+**Show a short scan report** before moving on: what was checked, what
+was removed or replaced, and what the user explicitly chose to keep.
+Nothing moves to installation or the catalog option until the user
+approves the cleaned draft.
 
 ### 5. Installation guide
 
