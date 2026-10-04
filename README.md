@@ -13,7 +13,9 @@ It will even help you list it on the [Skill Harbor](https://theskillharbor.com) 
 The workshop interviews you a few questions at a time (character, name,
 voice, principles, quirks), drafts the persona as three files, shows you
 the full text, runs a privacy check, then guides the installation into
-your own setup.
+your own setup. It can also make a visual for your persona's avatar -
+or a cover image for the catalog listing, if you publish. Bring your
+own image, or have the workshop propose directions.
 
 Your Muse already has a personality, shaped by all your chats. Capture
 it: describe how it talks and acts, or paste excerpts, and the workshop
