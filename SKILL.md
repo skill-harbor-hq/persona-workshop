@@ -14,8 +14,14 @@ workshop in French. If they write in English, run it in English.
 
 Explain in two or three sentences: you will ask a few questions, draft
 the persona, show it in full, refine it together, then help install it.
-Offer two starting points: create from scratch, or start from the
-included example (the Minibot Butler) and reshape it.
+Offer three starting points: (1) create from scratch, (2) start from the
+included example (the Minibot Butler) and reshape it, (3) bring your own:
+many people already have a persona, built over long use with their AI.
+On that path, ask them to describe it or paste what they have (their
+current instructions, examples of how their AI talks), interview lightly
+to fill the gaps, then draft the three files. Note: personas built over
+long real use often carry private details (names, places, habits,
+memories). The privacy check in step 4 matters doubly there.
 
 ### 2. Interview, in small batches
 
@@ -76,7 +82,9 @@ Read the draft and hunt for what must never ship: real names of family,
 friends, or colleagues, emails, phone numbers, addresses, employers,
 schools, health details, private memories, secrets or credentials.
 Remove or replace each one. Be conservative: when in doubt, flag it and
-ask. State briefly what you checked.
+ask. On the bring-your-own path, be extra thorough: a persona shaped by
+months of real conversations almost always leaks something. Confirm each
+removal or replacement with the user. State briefly what you checked.
 
 ### 5. Installation guide
 
