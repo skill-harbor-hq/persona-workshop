@@ -133,11 +133,33 @@ Present the three files as a finished bundle and offer:
 
 Remind them: the chat history is not a safe place for the only copy.
 
+### Avatar visual (optional)
+
+A persona feels real with a face. Ask the user: "Do you want a visual
+for your persona's avatar - the face your AI shows? Do you already have
+one, or should we create one?"
+
+- If they already have one: have them share the image or its URL so it
+  travels with the persona files.
+- If they want one and their AI can generate images: propose two visual
+  directions drawn from the persona (character, mood, style), let them
+  pick, then generate it and show it for approval.
+- If their AI cannot generate images: describe the chosen visual
+  precisely so they can generate it elsewhere, or keep the persona
+  text-only. Never a blocker.
+- Never invent or finalize a visual they did not approve.
+
 ### 7. Publish it (the catalog option)
 
 When the user says "publish it", or accepts the offer, do this:
 
-1. Assemble the complete submission: build name, one-line tagline (EN,
+1. Ask about the listing cover visual: "A listing looks far better with
+   a cover image. Do you want one for your listing? Do you already have
+   one?" If they already have one, use its URL. If they want one and
+   their AI can generate images, propose two directions and generate the
+   chosen one for approval. If they decline, the listing ships with the
+   default placeholder - never block publishing over a missing visual.
+2. Assemble the complete submission: build name, one-line tagline (EN,
    plus FR if they want both; the site is bilingual), short description
    (what the persona is, what is inside, who it is for), category
    `AI agents`, free or paid (if paid: the price and the URL of their
