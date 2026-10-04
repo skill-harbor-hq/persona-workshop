@@ -28,11 +28,14 @@ share it.
 - `examples/minibot-butler/` — a finished example persona. Try it as is,
   or reshape it into your own.
 
-## The catalog option
+## Save and publish
 
-When your persona is done, the workshop offers to help you share it:
-it prepares the listing with you (name, tagline, description, free or
-paid) and points you to the Skill Harbor submission page.
+When your persona is done, the workshop helps you save it: local files,
+or a GitHub repo created step by step. If you want it on the catalog,
+say "publish it": the workshop prepares the complete submission with
+you and walks you to the Skill Harbor submission page. The team reviews
+every submission (reply within about 72 hours); nothing goes live
+without review. The workshop cannot publish by itself.
 
 ## Privacy
 
