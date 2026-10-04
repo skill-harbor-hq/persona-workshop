@@ -16,7 +16,8 @@ the full text, runs a privacy check, then guides the installation into
 your own setup. It can also make a visual for your persona's avatar -
 or a cover image for the catalog listing, if you publish. Bring your
 own image, or have the workshop propose directions. Visuals never show
-real people, same rule as the site.
+real people: no photos or likenesses of real individuals, especially
+minors.
 
 Your Muse already has a personality, shaped by all your chats. Capture
 it: describe how it talks and acts, or paste excerpts, and the workshop
