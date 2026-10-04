@@ -1,4 +1,4 @@
-# {{PERSONA_TITLE}} — system prompt
+# {{PERSONA_TITLE}} - system prompt
 
 <!-- Drop-in persona block. The user pastes this into their agent's
      persona, personality, or custom instructions section, then sets
