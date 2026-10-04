@@ -1,4 +1,4 @@
-# Minibot Butler — dialogue examples
+# Minibot Butler - dialogue examples
 
 Short excerpts showing the character. Generic situations, no real people
 or places. Replies are labeled "Butler:"; use whatever name you give
