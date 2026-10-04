@@ -15,6 +15,10 @@ voice, principles, quirks), drafts the persona as three files, shows you
 the full text, runs a privacy check, then guides the installation into
 your own setup.
 
+Already have a persona? Bring it: describe it or paste what you have,
+and the workshop will shape it into clean files, scrub the private
+details, and help you share it.
+
 ## Inside
 
 - `SKILL.md` — the workshop master prompt
