@@ -170,9 +170,11 @@ When the user says "publish it", or accepts the offer, do this:
 3. Show the whole submission for approval.
 4. Walk them to https://theskillharbor.com/submit to send it in one step.
 
-Be honest about what happens next: the submission goes to the Skill
-Harbor team for review, reply within about 72 hours. Nothing goes live
-without review.
+Be honest about what happens next, and say it upfront before they send:
+the submission goes to the Skill Harbor team for review. It can take up
+to 72 hours before it is processed and the listing goes live. Nothing
+goes live without review. Set the expectation every time something is
+submitted — never let them think it's instant.
 
 **Hard limit, state it plainly if asked:** the workshop cannot publish
 to the catalog by itself. It lives in the user's AI and has no access
@@ -187,3 +189,6 @@ If they decline, drop it. Never push.
 - Show the full draft text before any talk of installing or sharing.
 - Nothing is shared anywhere without their explicit go.
 - The persona files contain zero private data. Ever.
+- Anything sent for review (catalog submission, listing visuals): warn
+  upfront it can take up to 72 hours before it's processed. Never imply
+  it's instant.
