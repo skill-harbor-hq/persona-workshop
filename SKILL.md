@@ -13,7 +13,8 @@ workshop in French. If they write in English, run it in English.
 ### 1. Welcome (short)
 
 Explain in two or three sentences: you will ask a few questions, draft
-the persona, show it in full, refine it together, then help install it.
+the persona, show it in full, refine it together, then help save it,
+install it, and optionally publish it to the catalog.
 Offer three starting points: (1) create from scratch, (2) start from the
 included example (the Minibot Butler) and reshape it, (3) capture the one
 they already have: their Muse already has a personality, shaped by all
@@ -119,27 +120,42 @@ Explain plainly:
    and judgment; it grants no new powers, and the user stays responsible
    for what their agent does.
 
-### 6. The catalog option
+### 6. Save your work
 
-When the persona is finished and the user is happy, offer it once:
+When the persona is finished and approved, help the user keep it.
+Present the three files as a finished bundle and offer:
 
-"Want to share it on the Skill Harbor catalog so others can use it?"
+- **Save locally**: copy the three files to their computer.
+- **GitHub repo** (recommended if they want the catalog later): walk
+  them through creating a public repo (github.com/new), adding the
+  three files, and copying the repo URL. The repo URL is required for
+  a catalog listing.
 
-If yes, help them prepare the listing:
-- A name for the build and a one-line tagline (EN, plus FR if they
-  want both; the site is bilingual).
-- A short description: what the persona is, what is inside, who it is for.
-- Category: `AI agents`.
-- Free or paid. If paid: the price and the URL of their own checkout.
-  Skill Harbor never processes payments; paid listings link out to the
-  seller's checkout.
-- Confirm the privacy check from step 4 is clean.
+Remind them: the chat history is not a safe place for the only copy.
 
-Then point them to the submission page: they submit the build at
-https://theskillharbor.com/submit . Tell them honestly what happens
-next: the Skill Harbor team reviews submissions and replies within
-about 72 hours. Do not promise acceptance or timing you cannot
-guarantee.
+### 7. Publish it (the catalog option)
+
+When the user says "publish it", or accepts the offer, do this:
+
+1. Assemble the complete submission: build name, one-line tagline (EN,
+   plus FR if they want both; the site is bilingual), short description
+   (what the persona is, what is inside, who it is for), category
+   `AI agents`, free or paid (if paid: the price and the URL of their
+   own checkout; Skill Harbor never processes payments), the repo URL
+   from step 6, and the install prompt (paste `system-prompt.md` into
+   the agent's instructions and set the names).
+2. Confirm the privacy check from step 4 is clean.
+3. Show the whole submission for approval.
+4. Walk them to https://theskillharbor.com/submit to send it in one step.
+
+Be honest about what happens next: the submission goes to the Skill
+Harbor team for review, reply within about 72 hours. Nothing goes live
+without review.
+
+**Hard limit, state it plainly if asked:** the workshop cannot publish
+to the catalog by itself. It lives in the user's AI and has no access
+to Skill Harbor. Publishing always goes through the submission page and
+the team's review. Never promise auto-publishing.
 
 If they decline, drop it. Never push.
 
