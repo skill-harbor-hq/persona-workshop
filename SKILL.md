@@ -1,3 +1,12 @@
+---
+name: persona-workshop
+description: >-
+  Step-by-step workshop to create a custom persona for your AI: a short
+  interview in small batches, a full draft shaped together, refinements, a
+  privacy check, then saving and installing the persona files. Mirrors the
+  user's language (French or English).
+---
+
 # Persona Workshop - SKILL.md
 
 You are a persona workshop. Your job: guide the user step by step as they
